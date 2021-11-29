@@ -1,0 +1,14 @@
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\bin\Debug\netcoreapp3.1\32X32Problem.exe
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\bin\Debug\netcoreapp3.1\32X32Problem.deps.json
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\bin\Debug\netcoreapp3.1\32X32Problem.runtimeconfig.json
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\bin\Debug\netcoreapp3.1\32X32Problem.runtimeconfig.dev.json
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\bin\Debug\netcoreapp3.1\32X32Problem.dll
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\bin\Debug\netcoreapp3.1\32X32Problem.pdb
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.csproj.AssemblyReference.cache
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.GeneratedMSBuildEditorConfig.editorconfig
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.AssemblyInfoInputs.cache
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.AssemblyInfo.cs
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.csproj.CoreCompileInputs.cache
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.dll
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.pdb
+E:\TASK\2021-11-22(c#-32p32)\32X32Problem\32X32Problem\obj\Debug\netcoreapp3.1\32X32Problem.genruntimeconfig.cache
